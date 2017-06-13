@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					4E3826C41EEFC8200011B2AA = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 69729XSX35;
+						DevelopmentTeam = LUWYQ322NV;
 						ProvisioningStyle = Automatic;
 					};
 					4E3826D81EEFC8200011B2AA = {
@@ -417,7 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 69729XSX35;
+				DEVELOPMENT_TEAM = LUWYQ322NV;
 				INFOPLIST_FILE = AnimationView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -431,7 +431,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 69729XSX35;
+				DEVELOPMENT_TEAM = LUWYQ322NV;
 				INFOPLIST_FILE = AnimationView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
